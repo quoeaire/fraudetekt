@@ -3,6 +3,9 @@ This project is designed to aggregate data from bike-share providers and governm
 
 # Architecture
 Python3 (Libraries):
+ - SQLite3
  - Numpy
  - Pandas
- - SQLite3
+
+# Dataset Trained On:
+[IEEE-CIS Fraud Detection][https://ieee-dataport.org/documents/ieee-cis-fraud-detection] by Yuqun Cao on 03/12/2026
