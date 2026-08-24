@@ -1,0 +1,13 @@
+{
+    "keyLocation" : {
+        "database" : "db/",
+        "schemas" : "db/schemas/",
+        "datasets" : "datasets/"
+    },
+    "dataFilename" : {
+        "database" : "test.db",
+        "schema" : "ledger.sql",
+        "csvUnprocessed" : "test.csv",
+        "csvProcessed" : "in-use.csv"
+    }
+}
